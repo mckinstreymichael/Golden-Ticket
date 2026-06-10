@@ -1,0 +1,27 @@
+{
+  "sources": [
+    { "type": "reddit", "sub": "giveaways",            "name": "r/giveaways" },
+    { "type": "reddit", "sub": "sweepstakes",          "name": "r/sweepstakes" },
+    { "type": "reddit", "sub": "freebies",             "name": "r/freebies" },
+    { "type": "reddit", "sub": "giveitaway",           "name": "r/giveitaway" },
+    { "type": "reddit", "sub": "contests",             "name": "r/contests" },
+    { "type": "reddit", "sub": "RandomActsOfGaming",   "name": "r/RandomActsOfGaming" },
+    { "type": "reddit", "sub": "FreeGameFindings",     "name": "r/FreeGameFindings" },
+    { "type": "reddit", "sub": "GiftofGames",          "name": "r/GiftofGames" },
+    { "type": "reddit", "sub": "steam_giveaway",       "name": "r/steam_giveaway" },
+    { "type": "reddit", "sub": "Random_Acts_Of_Amazon","name": "r/Random_Acts_Of_Amazon" },
+
+    { "type": "rss", "url": "https://sweetiessweeps.com/feed/",   "name": "Sweeties Sweeps" },
+    { "type": "rss", "url": "https://juliesfreebies.com/feed/",   "name": "Julie's Freebies" },
+    { "type": "rss", "url": "https://thefreebieguy.com/feed/",    "name": "The Freebie Guy" },
+    { "type": "rss", "url": "https://www.heyitsfree.net/feed/",   "name": "Hey It's Free" },
+    { "type": "rss", "url": "https://www.freebieshark.com/feed/", "name": "FreebieShark" },
+
+    { "type": "html", "url": "https://www.sweepsadvantage.com/", "name": "Sweepstakes Advantage",
+      "item_selector": "PUT_SELECTOR_HERE", "title_selector": "a", "link_selector": "a",
+      "summary_selector": "", "enabled": false },
+    { "type": "html", "url": "https://www.contestgirl.com/", "name": "Contestgirl",
+      "item_selector": "PUT_SELECTOR_HERE", "title_selector": "a", "link_selector": "a",
+      "summary_selector": "", "enabled": false }
+  ]
+}

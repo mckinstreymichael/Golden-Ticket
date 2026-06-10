@@ -1,0 +1,46 @@
+name: Fetch giveaways
+
+# Runs on a schedule AND can be triggered by hand from the Actions tab.
+on:
+  schedule:
+    - cron: "17 13 * * *"      # ~13:17 UTC daily (GitHub may delay busy-hour runs)
+  workflow_dispatch:           # the "Run workflow" button
+
+# Let the job commit the refreshed JSON back into the repo.
+permissions:
+  contents: write
+
+# If a run is still going when the next fires, don't stack them up.
+concurrency:
+  group: fetch-giveaways
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install feedparser requests beautifulsoup4
+
+      - name: Collect giveaways (merge keeps your dashboard statuses)
+        run: python3 stub_fetch.py --config sources.json --merge stub-data.json --out stub-data.json
+
+      - name: Commit the refreshed list
+        run: |
+          git config user.name  "stub-bot"
+          git config user.email "stub-bot@users.noreply.github.com"
+          git add stub-data.json
+          if git diff --staged --quiet; then
+            echo "No changes this run."
+          else
+            git commit -m "Update giveaways $(date -u +%Y-%m-%d)"
+            git push
+          fi

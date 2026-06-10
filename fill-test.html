@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Stub Fill Test — sandbox</title>
+<style>
+  :root{--ink:#102027;--ink2:#16313b;--gold:#d99a2b;--green:#2f9e7e;--paper:#f4ede0;}
+  *{box-sizing:border-box}
+  body{margin:0;background:#102027;color:#dce8ea;font:15px/1.5 -apple-system,system-ui,sans-serif;padding:22px 16px 80px}
+  .wrap{max-width:640px;margin:0 auto}
+  h1{font-size:22px;margin:0 0 4px}
+  .sub{color:#9fb6bc;font-size:14px;margin-bottom:18px}
+  .how{background:#16313b;border:1px solid #29505c;border-radius:12px;padding:14px 16px;margin-bottom:22px;font-size:14px}
+  .how b{color:var(--gold)}
+  .how ol{margin:8px 0 0;padding-left:20px}
+  .how li{margin:4px 0}
+  fieldset{border:1px solid #29505c;border-radius:12px;margin:0 0 16px;padding:14px 16px}
+  legend{color:var(--gold);font-weight:700;padding:0 6px;font-size:13px;text-transform:uppercase;letter-spacing:1px}
+  .row{margin-bottom:12px}
+  label{display:block;font-size:13px;color:#a9c1c7;margin-bottom:5px}
+  input[type=text],input[type=email],input[type=tel],select{
+    width:100%;background:#102027;border:1px solid #305a67;border-radius:8px;color:#eaf3f4;font:inherit;padding:9px 11px}
+  .inline{display:flex;align-items:center;gap:8px;margin:6px 0}
+  .inline label{margin:0;color:#dce8ea}
+  .three{display:flex;gap:8px;align-items:flex-end}
+  .three .row{flex:1}
+  .note{color:#8a7a5f;font-size:12px;margin-top:4px}
+  .req{color:#e0997a}
+  iframe{width:100%;border:1px dashed #305a67;border-radius:8px;background:#0c191e;min-height:140px}
+  button{background:var(--gold);border:0;color:#2a1d04;font-weight:700;padding:11px 22px;border-radius:9px;font-size:15px;cursor:pointer}
+  .legendkey{font-size:13px;color:#9fb6bc;margin:6px 0 18px}
+  .legendkey b{padding:1px 6px;border-radius:4px}
+  .k-green{outline:2px solid var(--green);outline-offset:1px}
+  .k-amber{outline:2px solid var(--gold);outline-offset:1px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Stub Fill Test</h1>
+  <p class="sub">A sandbox form covering every field type the autofill bookmark handles. Nothing here submits anywhere.</p>
+
+  <div class="how">
+    <b>How to use:</b>
+    <ol>
+      <li>In the Stub app, save your details and create your <b>Fill Form</b> bookmark (drag it to your bookmarks bar).</li>
+      <li>Open this page and tap that bookmark.</li>
+      <li>Watch fields fill and outline <b>green</b>; required fields it can't guess turn <b>amber</b>; a review panel appears at the bottom. It never submits.</li>
+    </ol>
+  </div>
+  <p class="legendkey">Expected: green = filled by Stub, amber = required but left for you (gender, residency, the made-up "promo code", and marketing opt-in should NOT be filled).</p>
+
+  <form onsubmit="return false">
+    <fieldset>
+      <legend>Personal</legend>
+      <div class="row"><label for="fn">First name</label><input type="text" id="fn" name="first_name" required></div>
+      <div class="row"><label for="ln">Last name</label><input type="text" id="ln" name="last_name" required></div>
+      <div class="row"><label for="em">Email</label><input type="email" id="em" name="email" required></div>
+      <div class="row"><label for="em2">Confirm email</label><input type="email" id="em2" name="confirm_email"></div>
+    </fieldset>
+
+    <fieldset>
+      <legend>Phone (split boxes)</legend>
+      <div class="three">
+        <div class="row"><label for="pa">Area</label><input type="tel" id="pa" name="phone_area" maxlength="3"></div>
+        <div class="row"><label for="pp">Prefix</label><input type="tel" id="pp" name="phone_prefix" maxlength="3"></div>
+        <div class="row"><label for="pl">Line</label><input type="tel" id="pl" name="phone_line" maxlength="4"></div>
+      </div>
+    </fieldset>
+
+    <fieldset>
+      <legend>Address</legend>
+      <div class="row"><label for="a1">Street address</label><input type="text" id="a1" name="address1"></div>
+      <div class="row"><label for="a2">Apt / unit</label><input type="text" id="a2" name="address2"></div>
+      <div class="row"><label for="ct">City</label><input type="text" id="ct" name="city"></div>
+      <div class="row"><label for="st">State</label>
+        <select id="st" name="state"><option value="">--</option><option>California</option><option>New York</option><option>Texas</option><option>Florida</option></select></div>
+      <div class="row"><label for="zp">ZIP</label><input type="text" id="zp" name="zip" required></div>
+      <div class="row"><label for="co">Country</label>
+        <select id="co" name="country"><option value="">--</option><option>United States</option><option>Canada</option><option>United Kingdom</option></select></div>
+    </fieldset>
+
+    <fieldset>
+      <legend>Date of birth (split selects)</legend>
+      <div class="three">
+        <div class="row"><label for="bm">Month</label>
+          <select id="bm" name="dob_month"><option value="">--</option><option>January</option><option>February</option><option>March</option><option>April</option><option>December</option></select></div>
+        <div class="row"><label for="bd">Day</label>
+          <select id="bd" name="dob_day"><option value="">--</option><option>1</option><option>14</option><option>22</option></select></div>
+        <div class="row"><label for="by">Year</label>
+          <select id="by" name="dob_year"><option value="">--</option><option>1988</option><option>1990</option><option>1995</option></select></div>
+      </div>
+    </fieldset>
+
+    <fieldset>
+      <legend>Eligibility</legend>
+      <div class="inline"><input type="checkbox" id="ag" name="agree_rules" required><label for="ag">I agree to the Official Rules <span class="req">(required)</span></label></div>
+      <div class="row" style="margin-top:10px"><label>Are you 18 or older? <span class="req">(required)</span></label>
+        <div class="inline"><input type="radio" id="o1" name="over18" value="yes" required><label for="o1">Yes</label></div>
+        <div class="inline"><input type="radio" id="o2" name="over18" value="no"><label for="o2">No</label></div>
+      </div>
+    </fieldset>
+
+    <fieldset>
+      <legend>Should stay untouched</legend>
+      <div class="inline"><input type="checkbox" id="mk" name="newsletter_optin"><label for="mk">Send me marketing emails (opt-in — should NOT be ticked)</label></div>
+      <div class="row" style="margin-top:10px"><label>Gender (Stub should not guess)</label>
+        <div class="inline"><input type="radio" id="g1" name="gender" value="female"><label for="g1">Female</label></div>
+        <div class="inline"><input type="radio" id="g2" name="gender" value="male"><label for="g2">Male</label></div>
+      </div>
+      <div class="row" style="margin-top:10px"><label for="pc">Promo code <span class="req">(required, made-up — should flag amber)</span></label><input type="text" id="pc" name="promo_code" required></div>
+    </fieldset>
+
+    <fieldset>
+      <legend>Embedded form (same-origin iframe)</legend>
+      <p class="note">This section lives in an iframe. Stub fills reachable same-origin frames like this one; a real cross-origin embed would instead trigger the "fill by hand" warning in the panel.</p>
+      <iframe id="embed" title="embedded form"
+        srcdoc="<body style='font-family:-apple-system,system-ui,sans-serif;color:#dce8ea;background:#0c191e;margin:10px'>
+          <label for='ifn' style='font-size:13px;color:#a9c1c7'>Full name (in iframe)</label><br>
+          <input id='ifn' name='full_name' style='width:95%;padding:8px;margin:4px 0 10px;border-radius:6px;border:1px solid #305a67;background:#102027;color:#eaf3f4'><br>
+          <label for='izp' style='font-size:13px;color:#a9c1c7'>ZIP (in iframe)</label><br>
+          <input id='izp' name='postal_code' style='width:95%;padding:8px;margin:4px 0;border-radius:6px;border:1px solid #305a67;background:#102027;color:#eaf3f4'>
+        </body>"></iframe>
+    </fieldset>
+
+    <button type="submit">Submit (does nothing here)</button>
+  </form>
+</div>
+</body>
+</html>
