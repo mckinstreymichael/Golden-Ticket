@@ -1020,6 +1020,686 @@
       "deadline": "",
       "note": "via FreebieShark — Amazon has a fresh batch of Subscribe & Save deals live, with standout prices on drinks, beauty, and everyday essentials",
       "status": "todo"
+    },
+    {
+      "id": "f7dc4273e1ce",
+      "title": "Free Ice Cream at Kroger on June 19, 2026",
+      "prize": "",
+      "prize_value": 0.0,
+      "url": "https://www.heyitsfree.net/free-ice-cream-kroger",
+      "deadline": "2026-06-19",
+      "note": "via Hey It's Free — Mark your calendars for a sweet freebie and get a free pint of Kroger Brand ice cream on Friday, June 19, 2026! You can",
+      "status": "todo"
+    },
+    {
+      "id": "f6965289b9fa",
+      "title": "44 Farms Angus Steaks Ultimate 4th of July Giveaway ($3,300 Prize)",
+      "prize": "ner will take home a Texas-sized prize, featuring 44 Farms premium Angus beef, e",
+      "prize_value": 3300.0,
+      "url": "https://sweetiessweeps.com/44farms-angus-steaks-ultimate-4th-of-july-giveaway",
+      "deadline": "2026-07-04",
+      "note": "via Sweeties Sweeps — Enter 44 Farms 4th of July Giveaway. One winner will take home a Texas-sized prize, featuring 44 Farms premium Angus bee",
+      "status": "todo"
+    },
+    {
+      "id": "f5057e210233",
+      "title": "Travel + Leisure Vacations “Tickets For A Year” Sweepstakes",
+      "prize": "Ticketmaster “tickets for a year” in the form of a $3,000 in Ticketmaster e-gift",
+      "prize_value": 3000.0,
+      "url": "https://sweetiessweeps.com/travel-leisure-vacations-tickets-for-a-year-sweepstakes",
+      "deadline": "2026-07-31",
+      "note": "via Sweeties Sweeps — Enter for your chance to win Ticketmaster “tickets for a year” in the form of a $3,000 in Ticketmaster e-gift cards. Tra",
+      "status": "todo"
+    },
+    {
+      "id": "f3e7265d4155",
+      "title": "Kellogg’s Cereal Only $1.99 at CVS (Reg. $6) + FREE TOY STORY 5 MOVIE TICKET FROM FANDANGO!",
+      "prize": "",
+      "prize_value": 35.0,
+      "url": "https://thefreebieguy.com/kelloggs-cereal-cvs",
+      "deadline": "2026-07-31",
+      "note": "via The Freebie Guy — Head to CVS where you can score select Kellogg’s Cereal for just $1.99 (Reg. $6.59)! You can order online for pickup, to",
+      "status": "todo"
+    },
+    {
+      "id": "f3b5c120f051",
+      "title": "Blue Sky Outdoor Living Red, White & Blue Sky Fire Pit Giveaway",
+      "prize": "The LIMITED EDITION American Flag Medallion Smokeless Square Patio Fire Pit. Jus",
+      "prize_value": 0.0,
+      "url": "https://sweetiessweeps.com/blueskyoutdoorliving-red-white-blue-sky-fire-pit-giveaway",
+      "deadline": "",
+      "note": "via Sweeties Sweeps — Enter for your chance to win The LIMITED EDITION American Flag Medallion Smokeless Square Patio Fire Pit. Just in time f",
+      "status": "todo"
+    },
+    {
+      "id": "f0dce1c07b30",
+      "title": "Huge Kohl’s Deal Days Event Starts June 23! Kohl’s Cash Giveaways, Free Shipping, & Daily Deals 🎉",
+      "prize": "",
+      "prize_value": 0.0,
+      "url": "https://thefreebieguy.com/kohls-deal-days",
+      "deadline": "",
+      "note": "via The Freebie Guy — Y’all get ready for another hot summer sale! Kohl’s is bringing back its popular Deal Days event, and this year it’s eve",
+      "status": "todo"
+    },
+    {
+      "id": "f76f2719288b",
+      "title": "Bluetooth 3-Speed Vinyl Record Player Only $37.xx on Amazon (Reg. $60)",
+      "prize": "",
+      "prize_value": 60.0,
+      "url": "https://thefreebieguy.com/seasonlife-vinyl-record-player",
+      "deadline": "",
+      "note": "via The Freebie Guy — Hurry over to Amazon to score this Seasonlife Bluetooth Vinyl Record Player for just $37.xx (Reg. $60)! Not only can you",
+      "status": "todo"
+    },
+    {
+      "id": "f2dc0ddc9898",
+      "title": "2-in-1 Bounce & Blast Inflatable Water Slide Park only $299.xx on Amazon! (Reg $590)",
+      "prize": "",
+      "prize_value": 590.0,
+      "url": "https://thefreebieguy.com/sunny-and-fun-2-in-1-bounce-blast-inflatable-water-slide-park",
+      "deadline": "",
+      "note": "via The Freebie Guy — Head to Amazon to score a Sunny & Fun 2-in-1 Bounce & Blast Inflatable Water Slide Park for only $299.xx right now! Incl",
+      "status": "todo"
+    },
+    {
+      "id": "f6a16663f8fa",
+      "title": "Benadryl Ultratabs Allergy Medicine 100-Count Only $9.xx on Amazon (Reg. $20)",
+      "prize": "",
+      "prize_value": 20.0,
+      "url": "https://thefreebieguy.com/benadryl-ultratabs-allergy-relief-medicine",
+      "deadline": "",
+      "note": "via The Freebie Guy — Head over to Amazon to snag this Benadryl Ultratabs Allergy Relief Medicine 100-Count for just 94.xx when you opt in for",
+      "status": "todo"
+    },
+    {
+      "id": "f49ebca1dcf4",
+      "title": "TP-Link Tapo 1080P Indoor Security Camera Only $15.xx on Amazon (Reg. $25)",
+      "prize": "",
+      "prize_value": 25.0,
+      "url": "https://thefreebieguy.com/tp-link-tapo-security-camera",
+      "deadline": "",
+      "note": "via The Freebie Guy — Hurry over to Amazon to score this TP-Link Tapo 1080P Indoor Security Camera for just $15.xx (Reg. $25)! Never truly lea",
+      "status": "todo"
+    },
+    {
+      "id": "fb04a452e810",
+      "title": "Nutella & GO! Bulk 24-Pack Only $15.xx on Amazon (Reg. $29)",
+      "prize": "",
+      "prize_value": 35.0,
+      "url": "https://thefreebieguy.com/nutella-amazon",
+      "deadline": "",
+      "note": "via The Freebie Guy — Head on over to Amazon, where you can score this Nutella & GO! Bulk 24-Pack for just $15.xx (reg. $29) when you clip the",
+      "status": "todo"
+    },
+    {
+      "id": "f30d2d73e793",
+      "title": "My 1st Jump N Slide Inflatable Water Slide Playset only $237! (Reg. $530)",
+      "prize": "",
+      "prize_value": 530.0,
+      "url": "https://thefreebieguy.com/my-kids-1st-jump-n-slide-inflatable",
+      "deadline": "",
+      "note": "via The Freebie Guy — Head to Wayfair to score summer fun for less! This Sportspower My 1st Jump N Slide Inflatable Water Slide for Kids with",
+      "status": "todo"
+    },
+    {
+      "id": "fbf2194ebc32",
+      "title": "Revlon Dual Ended Jelly Makeup Blender Tool Only $6.xx on Amazon (Reg $13)",
+      "prize": "",
+      "prize_value": 35.0,
+      "url": "https://thefreebieguy.com/revlon-dual-ended-jelly-makeup-blender-tool",
+      "deadline": "",
+      "note": "via The Freebie Guy — Hurry to Amazon to save on this Revlon Dual Ended Jelly Makeup Blender Tool! It’s currently on sale for only $6.xx (Reg",
+      "status": "todo"
+    },
+    {
+      "id": "ffc6587262dc",
+      "title": "Open Box KitchenAid 5.5 Quart Bowl-Lift Stand Mixer Just $200 Shipped on eBay (Reg. $389)",
+      "prize": "",
+      "prize_value": 389.0,
+      "url": "https://thefreebieguy.com/open-box-kitchenaid-stand-mixer",
+      "deadline": "",
+      "note": "via The Freebie Guy — Head on over to eBay, where you can snag this Open Box KitchenAid 5.5 Quart Bowl-Lift Stand Mixer for just $200 shipped",
+      "status": "todo"
+    },
+    {
+      "id": "f220618f2d66",
+      "title": "Women’s Wide Leg Palazzo Pants Only $14.xx on Amazon (Reg. $24)",
+      "prize": "",
+      "prize_value": 24.0,
+      "url": "https://thefreebieguy.com/bestbee-wide-leg-palazzo-pants",
+      "deadline": "",
+      "note": "via The Freebie Guy — Hurry over to Amazon to score these Bestbee Women’s Wide Leg Palazzo Pants for just $14.xx (Reg. $24)! They are soft, st",
+      "status": "todo"
+    },
+    {
+      "id": "fd5361eaff70",
+      "title": "Band-Aid Brand Flexible Fabric Adhesive Bandages 30ct Only $2.xx!",
+      "prize": "",
+      "prize_value": 35.0,
+      "url": "https://thefreebieguy.com/band-aid-brand-flexible-fabric-adhesive-bandages",
+      "deadline": "",
+      "note": "via The Freebie Guy — Hurry to Amazon to score this Band-Aid Brand Flexible Fabric Adhesive Bandages for only $2.xx when you opt to sub and sa",
+      "status": "todo"
+    },
+    {
+      "id": "fd27b573a393",
+      "title": "FREE PC Games on the Epic Games Store Every Thursday",
+      "prize": "",
+      "prize_value": 0.0,
+      "url": "https://thefreebieguy.com/free-pc-game-on-epic-games",
+      "deadline": "",
+      "note": "via The Freebie Guy — Explore an exciting opportunity to grab a free PC game or other goodies on the Epic Games Store! This offer recurs regul",
+      "status": "todo"
+    },
+    {
+      "id": "f688bbe795e5",
+      "title": "Chefman Everything Warmer Electric Warming Tray Only $69.xx on Amazon (Reg. $130)",
+      "prize": "",
+      "prize_value": 130.0,
+      "url": "https://thefreebieguy.com/chefman-electric-warming-tray",
+      "deadline": "",
+      "note": "via The Freebie Guy — For a limited time, score big on the Chefman Electric Warming Tray for only $69.xx (Reg. $130) on Amazon! This tray feat",
+      "status": "todo"
+    },
+    {
+      "id": "f1b9d058cb5f",
+      "title": "Bright Starts Playful Paradise Baby Bouncer Only $26 at Walmart (Reg. $35)",
+      "prize": "",
+      "prize_value": 35.0,
+      "url": "https://thefreebieguy.com/bright-starts-baby-bouncer",
+      "deadline": "",
+      "note": "via The Freebie Guy — Head over to Walmart, where you can score the Bright Starts Playful Paradise Vibrating Baby Bouncer on sale for only $26",
+      "status": "todo"
+    },
+    {
+      "id": "f9c666cfb787",
+      "title": "Infants’ Tylenol Oral Suspension Liquid Medicine Only $4.xx on Amazon (Reg $9)",
+      "prize": "",
+      "prize_value": 35.0,
+      "url": "https://thefreebieguy.com/tylenol-infant-pain-reliever-deal-on-amazon",
+      "deadline": "",
+      "note": "via The Freebie Guy — Head to Amazon to grab Tylenol Infants Oral Suspension Liquid Medicine for just $4.xx when you clip the digital coupon o",
+      "status": "todo"
+    },
+    {
+      "id": "f337be0a07a3",
+      "title": "SodaStream Root Beer 4ct Only $8.xx on Amazon (Reg $20)",
+      "prize": "",
+      "prize_value": 35.0,
+      "url": "https://thefreebieguy.com/sodastream-root-beer",
+      "deadline": "",
+      "note": "via The Freebie Guy — Hurry to Amazon to save on this SodaStream Root Beer 4ct! This set is on sale for only $8.xx (Reg $20). That makes these",
+      "status": "todo"
+    },
+    {
+      "id": "f1252d132d0c",
+      "title": "TOMS Summer Shoe Sale! Up to an Extra 30% Off Sitewide",
+      "prize": "",
+      "prize_value": 175.0,
+      "url": "https://thefreebieguy.com/toms-sale",
+      "deadline": "",
+      "note": "via The Freebie Guy — Through June 15th, TOMS is offering a sale on sale! The more you spend, the more you save! Use code SUMMERHAUL to get an",
+      "status": "todo"
+    },
+    {
+      "id": "f597352cc06d",
+      "title": "Carote Ceramic Cookware 16-Piece Set Only $49.xx Shipped for Prime Members (Reg. $80)",
+      "prize": "",
+      "prize_value": 80.0,
+      "url": "https://thefreebieguy.com/carote-ceramic-cookware-16pc-set",
+      "deadline": "",
+      "note": "via The Freebie Guy — Right now at Amazon, Prime Members can score this Carote Ceramic Cookware 16-Piece Set on sale for only $49.xx (Reg. $80",
+      "status": "todo"
+    },
+    {
+      "id": "f02a275e8b41",
+      "title": "The Freebie Guy’s HUGE List of Social Media Giveaways!",
+      "prize": "! These types of giveaways are found on social media platforms and typically the",
+      "prize_value": 0.0,
+      "url": "https://thefreebieguy.com/social-media-giveaways",
+      "deadline": "",
+      "note": "via The Freebie Guy — Social Media Giveaways are actually one of my favorite types of giveaways for a couple of reasons – one of those is that",
+      "status": "todo"
+    },
+    {
+      "id": "f41711b67900",
+      "title": "Clorox Disinfecting Wipes 3-Pack Only $10.xx on Amazon (Reg. $15)",
+      "prize": "",
+      "prize_value": 35.0,
+      "url": "https://thefreebieguy.com/clorox-wipes-amazon",
+      "deadline": "",
+      "note": "via The Freebie Guy — Head to Amazon where you can score this Clorox Disinfecting Wipes 3-Pack for just $10.xx when you select Subscribe & Sav",
+      "status": "todo"
+    },
+    {
+      "id": "f76af603a563",
+      "title": "Lowe’s Father’s Day Gift Guide | Tool Sets, Air Compressors, & More!",
+      "prize": "",
+      "prize_value": 0.0,
+      "url": "https://thefreebieguy.com/lowes-fathers-day-gift-guide",
+      "deadline": "",
+      "note": "via The Freebie Guy — For a limited time, head on over to Lowe’s, where you can score HUGE savings on select Father’s Day gift ideas! We’ve sp",
+      "status": "todo"
+    },
+    {
+      "id": "fcdd86b75f3b",
+      "title": "Blink Wired Floodlight Camera Only $29.99 at Lowe’s (Reg. $100)",
+      "prize": "",
+      "prize_value": 100.0,
+      "url": "https://thefreebieguy.com/blink-floodlight-camera",
+      "deadline": "",
+      "note": "via The Freebie Guy — Run to Lowe’s where you can score this Blink Wired Floodlight Camera for just $29.99 (Reg. $100)! Opt for free store pic",
+      "status": "todo"
+    },
+    {
+      "id": "ffd9c6bb2261",
+      "title": "Hefty Strong 13 Gallon Trash Bags 90-Count Only $11.xx on Amazon (Reg. $17)",
+      "prize": "",
+      "prize_value": 35.0,
+      "url": "https://thefreebieguy.com/hefty-trash-bags",
+      "deadline": "",
+      "note": "via The Freebie Guy — Head to Amazon, where you can score this Hefty Strong 13 Gallon Trash Bags 90-Count for JUST $11.xx (reg. $17) when you",
+      "status": "todo"
+    },
+    {
+      "id": "fa8b5ed402cc",
+      "title": "Jack Link’s Beef Jerky Variety Pack Gift Basket 15-Pack Only $18.xx on Amazon (Reg. $40)",
+      "prize": "",
+      "prize_value": 40.0,
+      "url": "https://thefreebieguy.com/jack-links-beef-jerky-variety-pack-gift-basket",
+      "deadline": "",
+      "note": "via The Freebie Guy — Right now on Amazon, score this Jack Link’s Beef Jerky Variety Pack Gift Basket 15-Pack for just $18.xx when you opt in",
+      "status": "todo"
+    },
+    {
+      "id": "fe0495aeaa9e",
+      "title": "Trident White Peppermint Sugar Free Gum 9-Pack for just $6.xx on Amazon (Reg. $12)",
+      "prize": "",
+      "prize_value": 35.0,
+      "url": "https://thefreebieguy.com/9-packs-of-trident-white-pepermint-sugar-free-gum",
+      "deadline": "",
+      "note": "via The Freebie Guy — Head to Amazon to score a 9-Pack of Trident White Peppermint Sugar Free Gum for only $6.xx when you clip the coupon and",
+      "status": "todo"
+    },
+    {
+      "id": "f74d8a75873a",
+      "title": "Up to 50% Off at Foot Locker + Extra 20% Off $100 for Rewards Members | Adidas, On Cloud, & More",
+      "prize": "",
+      "prize_value": 100.0,
+      "url": "https://thefreebieguy.com/foot-locker-sale",
+      "deadline": "",
+      "note": "via The Freebie Guy — Right now at Foot Locker, you can score up to 50% OFF sneakers, tees, and more for the whole family! Even better, member",
+      "status": "todo"
+    },
+    {
+      "id": "f065bcfe85af",
+      "title": "Benadryl Extra Strength Anti-Itch Relief Gel Only $4.xx on Amazon (Reg. $9)",
+      "prize": "",
+      "prize_value": 35.0,
+      "url": "https://thefreebieguy.com/benadryl-anti-itch-gel",
+      "deadline": "",
+      "note": "via The Freebie Guy — Head to Amazon where you can score this Benadryl Extra Strength Anti-Itch Relief Gel for just $4.xx when you clip the di",
+      "status": "todo"
+    },
+    {
+      "id": "f4528d98b728",
+      "title": "Little Remedies Infant Fever & Pain Reliever Only $3.xx on Amazon (Reg $7)",
+      "prize": "",
+      "prize_value": 35.0,
+      "url": "https://thefreebieguy.com/little-remedies-infant-fever-pain-reliever",
+      "deadline": "",
+      "note": "via The Freebie Guy — Hurry to Amazon to save on this Little Remedies Infant Fever & Pain Reliever! When you opt to sub and save and clip the",
+      "status": "todo"
+    },
+    {
+      "id": "f05f6df85713",
+      "title": "ILIA Super Serum Skin Tint Just $34.xx Shipped on Amazon (Reg. $48)",
+      "prize": "",
+      "prize_value": 48.0,
+      "url": "https://thefreebieguy.com/ilia-super-serum-skin-tint",
+      "deadline": "",
+      "note": "via The Freebie Guy — Head on over to Amazon, where you can snag this ILIA Super Serum Skin Tint for just $34.xx (reg. $48) when you opt to Su",
+      "status": "todo"
+    },
+    {
+      "id": "f8a85a82e9c9",
+      "title": "Shark Navigator Swivel Pro Upright Vacuum Just $98 at Walmart (Reg. $179)",
+      "prize": "",
+      "prize_value": 179.0,
+      "url": "https://thefreebieguy.com/shark-navigator-upright-vacuum",
+      "deadline": "",
+      "note": "via The Freebie Guy — Looking for a new vacuum? Score this Shark Navigator Swivel Pro Upright Vacuum for only $98 right now at Walmart (Reg. $",
+      "status": "todo"
+    },
+    {
+      "id": "f2365aac5cc9",
+      "title": "Method Daily Shower Cleaner Spray 8pk Only $16.xx on Amazon! (Reg $37)",
+      "prize": "",
+      "prize_value": 37.0,
+      "url": "https://thefreebieguy.com/method-shower-cleaner-spray-8pk",
+      "deadline": "",
+      "note": "via The Freebie Guy — Hurry to Amazon to save on this 8ct of Method Daily Shower Cleaning Spray! When you opt to sub and save, you can score t",
+      "status": "todo"
+    },
+    {
+      "id": "f869608fdd80",
+      "title": "SITEWIDE SALE | Up to 70% Off Popular Comfrt Hoodies & Sweatpants + Extra 20% Off Select Styles!",
+      "prize": "",
+      "prize_value": 0.0,
+      "url": "https://thefreebieguy.com/comfrt-hoodies-sweatpants",
+      "deadline": "",
+      "note": "via The Freebie Guy — Stay comfortable all day long with the popular Comfrt brand! Even better, score up to 70% off items SITEWIDE, and add an",
+      "status": "todo"
+    },
+    {
+      "id": "f50416469efb",
+      "title": "Paris Hilton is Giving Away 1 BILLION Hilton Honors Points!",
+      "prize": "",
+      "prize_value": 0.0,
+      "url": "https://thefreebieguy.com/paris-hilton-is-giving-away-1-billion-hilton-honors-points",
+      "deadline": "",
+      "note": "via The Freebie Guy — Hey y’all! I have a very HOT offer to tell you about! Paris Hilton is giving away 1 BILLION Hilton Honors points to her",
+      "status": "todo"
+    },
+    {
+      "id": "f0aabda3bafa",
+      "title": "McAlister’s Deli is offering FREE Tea on July 16th",
+      "prize": "",
+      "prize_value": 0.0,
+      "url": "https://thefreebieguy.com/mcalisters-deli-deals",
+      "deadline": "",
+      "note": "via The Freebie Guy — Do you have a McAlister’s Deli location around? If so, you can stop by your local McAlister’s Deli on July 16th and grab",
+      "status": "todo"
+    },
+    {
+      "id": "f01d22383872",
+      "title": "BACK IN STOCK! Maxwell House Breakfast Blend 11oz Just $2.xx on Amazon",
+      "prize": "",
+      "prize_value": 35.0,
+      "url": "https://thefreebieguy.com/maxwell-house-breakfast-blend",
+      "deadline": "",
+      "note": "via The Freebie Guy — Run to Amazon, where you can grab this Maxwell House Breakfast Blend Ground Coffee 11oz Container for just $2.xx when yo",
+      "status": "todo"
+    },
+    {
+      "id": "fe03a6b4b292",
+      "title": "Reynolds Wrap Aluminum Foil 30-Foot Roll Only $2.xx on Amazon",
+      "prize": "",
+      "prize_value": 2.0,
+      "url": "https://thefreebieguy.com/reynolds-aluminum-foil",
+      "deadline": "",
+      "note": "via The Freebie Guy — Head on over to Amazon, where you can score this Reynolds Wrap Aluminum Foil 30-Foot Roll for just $2.xx when you clip t",
+      "status": "todo"
+    },
+    {
+      "id": "f2903831e984",
+      "title": "Dave’s Killer Bread – Bagels for a Year Giveaway!",
+      "prize": "S – (1) Grand Prize – FREE BAGELS FOR A YEAR ENTRY – One Time Entry. ENDING – Ju",
+      "prize_value": 0.0,
+      "url": "https://thefreebieguy.com/daves-killer-bread-bagels-for-a-year-giveaway",
+      "deadline": "",
+      "note": "via The Freebie Guy — Here is an offer where you can enter the Dave’s Killer Bread – Bagels for a Year Giveaway! PRIZES – (1) Grand Prize – FR",
+      "status": "todo"
+    },
+    {
+      "id": "fae09b4214db",
+      "title": "Tylenol Cold + Flu Severe Day & Night Caplets 24-Count Only $4.xx on Amazon! (Reg. $11)",
+      "prize": "",
+      "prize_value": 35.0,
+      "url": "https://thefreebieguy.com/tylenol-cold-flu",
+      "deadline": "",
+      "note": "via The Freebie Guy — Right now on Amazon, you can get this Tylenol Cold + Flu Severe Day & Night Caplets 24-Count for just $4.xx you clip the",
+      "status": "todo"
+    },
+    {
+      "id": "f35c09b7fb3d",
+      "title": "Dole Canned Pineapple Chunks 12-Pack Just $12.xx on Amazon (Reg. $19)",
+      "prize": "",
+      "prize_value": 35.0,
+      "url": "https://thefreebieguy.com/dole-canned-pineapple-chunks-12-pack",
+      "deadline": "",
+      "note": "via The Freebie Guy — Head on over to Amazon, where you can snag this Dole Tropical Gold Canned Pineapple Chunks 12-Pack for just $12.xx (reg.",
+      "status": "todo"
+    },
+    {
+      "id": "f4121154842f",
+      "title": "Fake Freebie Alert: Sampliful is a Scam Site",
+      "prize": "",
+      "prize_value": 0.0,
+      "url": "https://www.heyitsfree.net/sampliful-scam-fake",
+      "deadline": "",
+      "note": "via Hey It's Free — This past week, a lot of other freebie sites – The Freebie Guy, Freeflys, etc – posted an offer for innisfree Energy She",
+      "status": "todo"
+    },
+    {
+      "id": "fbd4f64db2ac",
+      "title": "Free Chomps Chicken Stick",
+      "prize": "",
+      "prize_value": 0.0,
+      "url": "https://www.heyitsfree.net/free-chomps-snack",
+      "deadline": "",
+      "note": "via Hey It's Free — *Homer Simpsons voice* Mmmm….meat sticks… Oh, pardon me. Send Me a Sample is giving away free Chomps chicken sticks. To",
+      "status": "todo"
+    },
+    {
+      "id": "f7118bf1d042",
+      "title": "RetailMeNot “Chief Capri Officer” Sweepstakes",
+      "prize": "ner will score a […] The post RetailMeNot “Chief Capri Officer” Sweepstakes appe",
+      "prize_value": 0.0,
+      "url": "https://www.freebieshark.com/2026/06/retailmenot-chief-capri-officer-sweepstakes.html",
+      "deadline": "",
+      "note": "via FreebieShark — Style your way to a big payday with the RetailMeNot “Chief Capri Officer” Sweepstakes, where one winner will score a […]",
+      "status": "todo"
+    },
+    {
+      "id": "f88c85c41614",
+      "title": "Delizza “Sweet Summer Essentials” Sweepstakes (5 Winners)",
+      "prize": "ners)",
+      "prize_value": 0.0,
+      "url": "https://www.freebieshark.com/2026/06/delizza-sweet-summer-essentials-sweepstakes-5-winners.html",
+      "deadline": "",
+      "note": "via FreebieShark — Soak up the sweetest days of summer with the Delizza “Sweet Summer Essentials” Sweepstakes, where winners will score a b",
+      "status": "todo"
+    },
+    {
+      "id": "f61aaf4ecbdb",
+      "title": "Royal Caribbean “West Coast Cruise” Instagram Giveaway",
+      "prize": "ner and […] The post Royal Caribbean “West Coast Cruise” Instagram Giveaway appe",
+      "prize_value": 0.0,
+      "url": "https://www.freebieshark.com/2026/06/royal-caribbean-west-coast-cruise-instagram-giveaway.html",
+      "deadline": "",
+      "note": "via FreebieShark — Set sail for a West Coast escape with the Royal Caribbean “West Coast Cruise” Instagram Giveaway, where one winner and [",
+      "status": "todo"
+    },
+    {
+      "id": "f3ab4c66c430",
+      "title": "Great American Water “Roadtrip” Sweepstakes",
+      "prize": "ners will score a van, concert […] The post Great American Water “Roadtrip” Swee",
+      "prize_value": 0.0,
+      "url": "https://www.freebieshark.com/2026/06/great-american-water-roadtrip-sweepstakes.html",
+      "deadline": "",
+      "note": "via FreebieShark — Hit the road and chase adventure with the Great American Water “Roadtrip” Sweepstakes, where winners will score a van, c",
+      "status": "todo"
+    },
+    {
+      "id": "f92a35b9fe0f",
+      "title": "Red Lobster “Endless Shrimp” Instagram Giveaway",
+      "prize": "ner will score Endless […] The post Red Lobster “Endless Shrimp” Instagram Givea",
+      "prize_value": 0.0,
+      "url": "https://www.freebieshark.com/2026/06/red-lobster-endless-shrimp-instagram-giveaway.html",
+      "deadline": "",
+      "note": "via FreebieShark — Dive into a seafood lover’s dream with the Red Lobster “Endless Shrimp” Instagram Giveaway, where one winner will score",
+      "status": "todo"
+    },
+    {
+      "id": "f191ffe18274",
+      "title": "Drake “Father’s Day” Sweepstakes",
+      "prize": "ner will score a $1,000 […] The post Drake “Father’s Day” Sweepstakes appeared f",
+      "prize_value": 1000.0,
+      "url": "https://www.freebieshark.com/2026/06/drake-fathers-day-sweepstakes-2.html",
+      "deadline": "",
+      "note": "via FreebieShark — Get Dad geared up for the outdoors with the Drake “Father’s Day” Sweepstakes, where one winner will score a $1,000 […] T",
+      "status": "todo"
+    },
+    {
+      "id": "ff52f98f5fa6",
+      "title": "Psycho Bunny “Father’s Day” Sweepstakes",
+      "prize": "ner and a friend will […] The post Psycho Bunny “Father’s Day” Sweepstakes appea",
+      "prize_value": 0.0,
+      "url": "https://www.freebieshark.com/2026/06/psycho-bunny-fathers-day-sweepstakes.html",
+      "deadline": "",
+      "note": "via FreebieShark — Gift Dad a sharp new wardrobe with the Psycho Bunny “Father’s Day” Sweepstakes, where one winner and a friend will […] T",
+      "status": "todo"
+    },
+    {
+      "id": "f786cff861e5",
+      "title": "The Gist “World Soccer Fan Experience” Sweepstakes",
+      "prize": "ner and a guest […] The post The Gist “World Soccer Fan Experience” Sweepstakes",
+      "prize_value": 0.0,
+      "url": "https://www.freebieshark.com/2026/06/the-gist-world-soccer-fan-experience-sweepstakes.html",
+      "deadline": "",
+      "note": "via FreebieShark — Cheer on the beautiful game with the The Gist “World Soccer Fan Experience” Sweepstakes, where one winner and a guest […",
+      "status": "todo"
+    },
+    {
+      "id": "f46c6548e330",
+      "title": "Dr Pepper “One-Of-A-Kind Gridiron” Sweepstakes",
+      "prize": "ner and a guest will […] The post Dr Pepper “One-Of-A-Kind Gridiron” Sweepstakes",
+      "prize_value": 0.0,
+      "url": "https://www.freebieshark.com/2026/06/dr-pepper-one-of-a-kind-gridiron-sweepstakes.html",
+      "deadline": "",
+      "note": "via FreebieShark — Tackle a football fan’s dream trip with the Dr Pepper “One-Of-A-Kind Gridiron” Sweepstakes, where one winner and a guest",
+      "status": "todo"
+    },
+    {
+      "id": "fc568920aec9",
+      "title": "Paula’s Choice “Fan Club” Sweepstakes (15 Winners)",
+      "prize": "ners)",
+      "prize_value": 0.0,
+      "url": "https://www.freebieshark.com/2026/06/paulas-choice-fan-club-sweepstakes-15-winners.html",
+      "deadline": "",
+      "note": "via FreebieShark — Score the ultimate soccer fan experience with the Paula’s Choice “Fan Club” Sweepstakes, where 15 winners will land Worl",
+      "status": "todo"
+    },
+    {
+      "id": "f5fe3669fe59",
+      "title": "Amazon “Summer of Soccer” Instagram Giveaway",
+      "prize": "ner will score a loaded […] The post Amazon “Summer of Soccer” Instagram Giveawa",
+      "prize_value": 0.0,
+      "url": "https://www.freebieshark.com/2026/06/amazon-summer-of-soccer-instagram-giveaway.html",
+      "deadline": "",
+      "note": "via FreebieShark — Host the ultimate game-day bash with the Amazon “Summer of Soccer” Instagram Giveaway, where one winner will score a loa",
+      "status": "todo"
+    },
+    {
+      "id": "fc1d3e7d4119",
+      "title": "Menage a Trois Winery “Instagram Sweepstakes",
+      "prize": "ery “Instagram Sweepstakes",
+      "prize_value": 500.0,
+      "url": "https://www.freebieshark.com/2026/06/menage-a-trois-winery-instagram-sweepstakes.html",
+      "deadline": "",
+      "note": "via FreebieShark — Cheers to game day with the Menage a Trois Winery “Instagram Sweepstakes, where one winner will score a $500 Visa […] Th",
+      "status": "todo"
+    },
+    {
+      "id": "f545bd615cb4",
+      "title": "818 Tequila “$8,180 Summer” Sweepstakes (4 Winners)",
+      "prize": "ners)",
+      "prize_value": 8180.0,
+      "url": "https://www.freebieshark.com/2026/06/818-tequila-8180-summer-sweepstakes-4-winners.html",
+      "deadline": "",
+      "note": "via FreebieShark — Sip, relax, and dream big this summer with the 818 Tequila “$8,180 Summer” Sweepstakes, where four winners will each tak",
+      "status": "todo"
+    },
+    {
+      "id": "f96c5749d115",
+      "title": "Mi Campo “Concert Trip” Sweepstakes (52 Winners)",
+      "prize": "ners)",
+      "prize_value": 0.0,
+      "url": "https://www.freebieshark.com/2026/06/mi-campo-concert-trip-sweepstakes-52-winners.html",
+      "deadline": "",
+      "note": "via FreebieShark — Turn up the volume on your summer with the Mi Campo “Concert Trip” Sweepstakes, where 52 winners will score a […] The po",
+      "status": "todo"
+    },
+    {
+      "id": "f1bd3f1b6a5a",
+      "title": "How to Find Free & Cheap Camping",
+      "prize": "",
+      "prize_value": 0.0,
+      "url": "https://www.freebieshark.com/2026/06/how-to-find-free-cheap-camping-4.html",
+      "deadline": "",
+      "note": "via FreebieShark — Are you and your family feeling adventurous this year? Take to nature and explore this summer! Here are some tips […] Th",
+      "status": "todo"
+    },
+    {
+      "id": "f7234cc92d26",
+      "title": "TeaSource “Iced Tea” Giveaway (7 Winners)",
+      "prize": "ners)",
+      "prize_value": 0.0,
+      "url": "https://www.freebieshark.com/2026/06/teasource-iced-tea-giveaway-7-winners.html",
+      "deadline": "",
+      "note": "via FreebieShark — Sip your way through summer with the TeaSource “Iced Tea” Giveaway, where seven winners will score loose-leaf tea blends",
+      "status": "todo"
+    },
+    {
+      "id": "f3214e724d63",
+      "title": "Sharky’s Top Five Crazy Amazon Finds",
+      "prize": "",
+      "prize_value": 0.0,
+      "url": "https://www.freebieshark.com/2026/06/sharkys-top-five-crazy-amazon-finds-205.html",
+      "deadline": "",
+      "note": "via FreebieShark — Amazon is awesome! You can load up on diapers, cereal, Swiffer refills, and toothpaste. Add some new seasonal decor or [",
+      "status": "todo"
+    },
+    {
+      "id": "ff867426319b",
+      "title": "Garden of Life: Free Clear Whey Protein Kit (June 17th & 21st)",
+      "prize": "",
+      "prize_value": 0.0,
+      "url": "https://www.freebieshark.com/2026/06/garden-of-life-free-clear-whey-protein-kit-june-17th-21st.html",
+      "deadline": "",
+      "note": "via FreebieShark — Garden of Life is giving away free Clear Whey Protein kits ahead of the product’s official September launch — and […] Th",
+      "status": "todo"
+    },
+    {
+      "id": "f73d2ee37d4b",
+      "title": "Crayola “Color Your Love for the Game” Sweepstakes (50 Winners)",
+      "prize": "ners)",
+      "prize_value": 0.0,
+      "url": "https://www.freebieshark.com/2026/06/crayola-color-your-love-for-the-game-sweepstakes-50-winners.html",
+      "deadline": "",
+      "note": "via FreebieShark — Color your way to game-day fun with the Crayola “Color Your Love for the Game” Sweepstakes, where 50 winners will […] Th",
+      "status": "todo"
+    },
+    {
+      "id": "f48745536c4a",
+      "title": "FREE Samples of GG Energy Drink Mix",
+      "prize": "",
+      "prize_value": 0.0,
+      "url": "https://www.freebieshark.com/2026/06/free-samples-of-gg-energy-drink-mix-11.html",
+      "deadline": "",
+      "note": "via FreebieShark — Right now you can request FREE Samples of GG Energy Drink Mix! Just login or register, add to cart, and […] The post FRE",
+      "status": "todo"
+    },
+    {
+      "id": "f03f51dbc555",
+      "title": "Sprouts: FREE GTS Living Foods Immortal Shot",
+      "prize": "",
+      "prize_value": 0.0,
+      "url": "https://www.freebieshark.com/2026/06/sprouts-free-gts-living-foods-immortal-shot.html",
+      "deadline": "",
+      "note": "via FreebieShark — Fill out the form and GTS Living Foods will send you a coupon for a free Immortal Shot, redeemable at […] The post Sprou",
+      "status": "todo"
+    },
+    {
+      "id": "fe1e84dc09d8",
+      "title": "Hello Kitty + Spam “Tour De Sizzle” Sweepstakes (30 Winners)",
+      "prize": "ners)",
+      "prize_value": 0.0,
+      "url": "https://www.freebieshark.com/2026/06/hello-kitty-spam-tour-de-sizzle-sweepstakes-30-winners.html",
+      "deadline": "",
+      "note": "via FreebieShark — A purr-fect pairing arrives just in time for grilling season with the Hello Kitty + Spam “Tour De Sizzle” Sweepstakes, [",
+      "status": "todo"
     }
   ]
 }
