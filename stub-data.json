@@ -2657,7 +2657,7 @@
       "prize": "",
       "prize_value": 0.0,
       "url": "https://thefreebieguy.com/free-target-event",
-      "deadline": "",
+      "deadline": "2026-10-17",
       "note": "via The Freebie Guy — Head to Target for freebies and giveaways on Saturdays! Select Target stores will be hosting in-store events where they",
       "status": "todo"
     },
@@ -57839,6 +57839,386 @@
       "url": "https://www.freebieshark.com/2026/10/iheartradio-holiday-with-the-jonas-brothers-sweepstakes.html",
       "deadline": "",
       "note": "via FreebieShark — Imagine ringing in the holidays backstage with the Jonas Brothers, enter for your shot at making it reality! GOOD LUCK!",
+      "status": "todo"
+    },
+    {
+      "id": "f8060089b8fd",
+      "title": "Hallmark Channel’s Very Merry Giveaway Sweepstakes (Daily Winners)",
+      "prize": "ners)",
+      "prize_value": 0.0,
+      "url": "https://sweetiessweeps.com/hallmarks-very-merry-giveaway",
+      "deadline": "",
+      "note": "via Sweeties Sweeps — Enter Hallmark Channel Very Merry Giveaway for a chance to win extraordinary holiday prizes, including one grand escape",
+      "status": "todo"
+    },
+    {
+      "id": "f40ce92f00e3",
+      "title": "Nature Made Vitamin C 500mg with Rose Hips 130-Count Only $3.xx on Amazon (Reg. $12)",
+      "prize": "",
+      "prize_value": 35.0,
+      "url": "https://thefreebieguy.com/nature-made-vitamin-c",
+      "deadline": "",
+      "note": "via The Freebie Guy — Hurry over to Amazon where you can score Nature Made Vitamin C 500mg with Rose Hips for just $3.xx when you clip the cou",
+      "status": "todo"
+    },
+    {
+      "id": "f905522a07ea",
+      "title": "Aveeno Baby Healthy Start Nourishing Newborn Wash Only $3.xx on Amazon (Reg $9)",
+      "prize": "",
+      "prize_value": 35.0,
+      "url": "https://thefreebieguy.com/aveeno-baby-wash",
+      "deadline": "",
+      "note": "via The Freebie Guy — Hurry to Amazon to save on this Aveeno Baby Healthy Start Nourishing Newborn Wash When you opt to sub and save and clip",
+      "status": "todo"
+    },
+    {
+      "id": "fa4d0309ac68",
+      "title": "Heart-Shaped Crossbody Bags from $9.xx on Amazon (Reg. $22)",
+      "prize": "",
+      "prize_value": 22.0,
+      "url": "https://thefreebieguy.com/makes-heart-shaped-crossbody-bag",
+      "deadline": "",
+      "note": "via The Freebie Guy — Hurry over to Amazon with code LA2L9CXW to score a Makes Heart-Shaped Crossbody Bag for just $10.xx (Reg. $22)! Made wit",
+      "status": "todo"
+    },
+    {
+      "id": "f568e01f270e",
+      "title": "Pacifica Passion Fruit Perfume Only $8.xx on Amazon (Reg $27)",
+      "prize": "",
+      "prize_value": 35.0,
+      "url": "https://thefreebieguy.com/pacifica-passion-fruit-perfume",
+      "deadline": "",
+      "note": "via The Freebie Guy — Hurry to Amazon to save big on this Pacifica Passion Fruit Perfume ! It’s currently on sale for only $8.xx when you opt",
+      "status": "todo"
+    },
+    {
+      "id": "f98642e13d1e",
+      "title": "Dinosaur Skeleton Costume as Low as $13.xx on Amazon (Reg $30)",
+      "prize": "",
+      "prize_value": 35.0,
+      "url": "https://thefreebieguy.com/dinosaur-skeleton-costume",
+      "deadline": "",
+      "note": "via The Freebie Guy — How cute is this?! Amazon has this Dinosaur Skeleton Costume for as low as $13.xx when you use code: IEWM1MSW at checkou",
+      "status": "todo"
+    },
+    {
+      "id": "f9bf7c5951d8",
+      "title": "Squishmallow 5-Piece Backpack Set with Detachable Lunch Bag Only $9 at Walmart (Reg $23)",
+      "prize": "",
+      "prize_value": 35.0,
+      "url": "https://thefreebieguy.com/squishmallow-backpack",
+      "deadline": "",
+      "note": "via The Freebie Guy — Hurry to Walmart to save on this adorable Squishmallow 5-Piece Backpack Set with Detachable Lunch Bag! It’s currently on",
+      "status": "todo"
+    },
+    {
+      "id": "fa0d13b4cfe1",
+      "title": "Women’s Snow Boots Just $35.xx on Amazon (Reg $60)",
+      "prize": "",
+      "prize_value": 60.0,
+      "url": "https://thefreebieguy.com/vilanva-snow-boots",
+      "deadline": "",
+      "note": "via The Freebie Guy — Run to Amazon to score the Vilanva Women’s Snow boots for just $35.xx with code: RIH231VV at checkout (reg $60)! Choose",
+      "status": "todo"
+    },
+    {
+      "id": "f0a5b791e6f2",
+      "title": "Velveeta Shells & Cheese Just $1.xx on Amazon",
+      "prize": "",
+      "prize_value": 35.0,
+      "url": "https://thefreebieguy.com/velveeta-shells-cheese-12oz-box",
+      "deadline": "",
+      "note": "via The Freebie Guy — Head on over to Amazon, where you can grab this Velveeta Shells & Cheese Box for only $1.xx when you clip the digital co",
+      "status": "todo"
+    },
+    {
+      "id": "fc6adbbfbc0e",
+      "title": "Fujifilm Instax Mini Link 3 Super Mario Smartphone Printer Only $99.xx (Reg $150)",
+      "prize": "",
+      "prize_value": 150.0,
+      "url": "https://thefreebieguy.com/fujifilm-instax-mini-link-3-super-mario-smartphone-printer",
+      "deadline": "",
+      "note": "via The Freebie Guy — Head to Amazon or Target to score this Fujifilm Instax Mini Link 3 Super Mario Smartphone Printer for just $99.xx (Reg.",
+      "status": "todo"
+    },
+    {
+      "id": "fbeecd8f5f12",
+      "title": "Vitaminwater Focus Kiwi Strawberry 12 Pack Only $12.xx on Amazon (Reg. $33)",
+      "prize": "",
+      "prize_value": 35.0,
+      "url": "https://thefreebieguy.com/vitaminwater-focus-kiwi-strawberry",
+      "deadline": "",
+      "note": "via The Freebie Guy — Hurry over to Amazon where you can score 12 bottles of Vitaminwater Focus Kiwi Strawberry for just $12.xx (Reg. $33)! Ea",
+      "status": "todo"
+    },
+    {
+      "id": "fb4dbe89678c",
+      "title": "State of Mine Sweaters From $8.81 at Sam’s Club",
+      "prize": "",
+      "prize_value": 8.81,
+      "url": "https://thefreebieguy.com/state-of-mine-sweaters",
+      "deadline": "",
+      "note": "via The Freebie Guy — Cozy, Cute & Going Fast: State of Mine Sweatshirts If you’ve been scrolling fashion feeds lately, you’ve probably spotte",
+      "status": "todo"
+    },
+    {
+      "id": "f4d8fb4b5998",
+      "title": "Today Only – FREE Shipping on EVERYTHING at HSN!",
+      "prize": "",
+      "prize_value": 159.0,
+      "url": "https://thefreebieguy.com/today-only-free-shipping-on-everything-at-hsn",
+      "deadline": "",
+      "note": "via The Freebie Guy — Run over to HSN to score FREE Shipping on everything today only! If there is anything you have been looking at the last",
+      "status": "todo"
+    },
+    {
+      "id": "fb2ce62bd2cb",
+      "title": "Juicy Couture Viva La Travel Size Eau De Parfum Gift Set Only $25!",
+      "prize": "",
+      "prize_value": 50.0,
+      "url": "https://thefreebieguy.com/juicy-couture-viva-la-juicy-set",
+      "deadline": "",
+      "note": "via The Freebie Guy — Hurry to Macy’s to score this Juicy Couture Viva La Juicy Travel Set for only $25 (Reg $50)! This makes a great gift! Yo",
+      "status": "todo"
+    },
+    {
+      "id": "f2e6232d6bf4",
+      "title": "New Balance Shoe Sale at Finish Line – Up to 60% Off Styles for the Whole Family!",
+      "prize": "",
+      "prize_value": 120.0,
+      "url": "https://thefreebieguy.com/new-balance-shoe-sale-at-finish-line",
+      "deadline": "",
+      "note": "via The Freebie Guy — Hurry over to Finish Line to shop the New Balance sale and save up to 60% on shoes for the entire family! From everyday",
+      "status": "todo"
+    },
+    {
+      "id": "f2beca313032",
+      "title": "Lifewit Medium Insulated Lunch Bag Only $7.xx on Amazon (Reg $16)",
+      "prize": "",
+      "prize_value": 35.0,
+      "url": "https://thefreebieguy.com/lifewit-medium-insulated-lunch-bag",
+      "deadline": "",
+      "note": "via The Freebie Guy — Head to Amazon to score a Lifewit Medium Lunch Bag Insulated Lunch Box for just $7.xx (Reg. $16)! This lunch bag is made",
+      "status": "todo"
+    },
+    {
+      "id": "f38af7491631",
+      "title": "Cuisinart 10-Piece Knife Set Only $13.99 at Macy’s",
+      "prize": "",
+      "prize_value": 50.0,
+      "url": "https://thefreebieguy.com/cuisinart-knife-set-macys",
+      "deadline": "",
+      "note": "via The Freebie Guy — Head over to Macy’s to score select Cuisinart 10-Piece Knife Sets for only $13.99 (Reg $50)! Choose from two color optio",
+      "status": "todo"
+    },
+    {
+      "id": "fe76c733ba3e",
+      "title": "DEWALT Elite Series 100-Piece Impact Driver Bit Set Only $39.xx at Lowe’s (Reg. $50)",
+      "prize": "",
+      "prize_value": 50.0,
+      "url": "https://thefreebieguy.com/dewalt-elite-series-impact-driver-bit-set",
+      "deadline": "",
+      "note": "via The Freebie Guy — Hurry over to Lowe’s to score this DEWALT Elite Series Impact Driver Bit Set for just $39.xx (Reg. $50)! Designed for he",
+      "status": "todo"
+    },
+    {
+      "id": "f901bc809055",
+      "title": "Jumbo Strawberry Squishy Only $5.xx on Amazon",
+      "prize": "",
+      "prize_value": 35.0,
+      "url": "https://thefreebieguy.com/sunny-days-strawberry-squishy",
+      "deadline": "",
+      "note": "via The Freebie Guy — Run to Amazon to score this Sunny Days Entertainment Strawberry Squishy for just $5.xx (Reg $13)! Great stocking stuffer",
+      "status": "todo"
+    },
+    {
+      "id": "f7426bfd701a",
+      "title": "DEWALT 20V Impact Driver w/ Battery Just $99 at Lowe’s (Reg $179)",
+      "prize": "",
+      "prize_value": 179.0,
+      "url": "https://thefreebieguy.com/dewalt-impact",
+      "deadline": "",
+      "note": "via The Freebie Guy — Head over to Lowe’s to score this DEWALT 20-volt max Brushless Cordless Impact Driver for only $99 (Reg $179)! This also",
+      "status": "todo"
+    },
+    {
+      "id": "f493c1a08316",
+      "title": "Reebok Men’s Game Day Fleece Jogger Sweatpants Only $9.xx on Walmart (Reg $24)",
+      "prize": "",
+      "prize_value": 35.0,
+      "url": "https://thefreebieguy.com/reebok-fleece-jogger-sweatpants",
+      "deadline": "",
+      "note": "via The Freebie Guy — Head to Walmart to grab Reebok Men’s Game Day Fleece Jogger Sweatpants for $9.xx (Reg $24)! Shipping is FREE with no min",
+      "status": "todo"
+    },
+    {
+      "id": "f724e81b59c7",
+      "title": "Wonder Nation Toddler & Girls Shearling Boots Just $12 at Walmart (Reg. $20)",
+      "prize": "",
+      "prize_value": 35.0,
+      "url": "https://thefreebieguy.com/wonder-nation-boots",
+      "deadline": "",
+      "note": "via The Freebie Guy — Grab your girlies some new boots at Walmart! Right now, these Wonder Nation Toddler & Girls Shearling Boots are marked d",
+      "status": "todo"
+    },
+    {
+      "id": "f4eb7e748180",
+      "title": "Crayola “Colorful Chords” Sweepstakes (Teachers Only)",
+      "prize": "",
+      "prize_value": 1000.0,
+      "url": "https://www.freebieshark.com/2026/10/crayola-colorful-chords-sweepstakes-teachers-only.html",
+      "deadline": "",
+      "note": "via FreebieShark — A custom acoustic guitar and $1,000 in Crayola art supplies could be yours, teacher! GOOD LUCK! 🎉🎸 The post Crayola “Col",
+      "status": "todo"
+    },
+    {
+      "id": "f39fd9aa4d83",
+      "title": "Penguin Random House “Halloween” Sweepstakes (2 Winners)",
+      "prize": "ners)",
+      "prize_value": 0.0,
+      "url": "https://www.freebieshark.com/2026/10/penguin-random-house-halloween-sweepstakes-2-winners.html",
+      "deadline": "",
+      "note": "via FreebieShark — Your shot at a spooky haul of Halloween audiobooks, headphones, coffee, and a blind box starts now, 2 winners will be ch",
+      "status": "todo"
+    },
+    {
+      "id": "fcbaf028a582",
+      "title": "Big 5 “Run Ready” Sweepstakes (10 Winners)",
+      "prize": "ners)",
+      "prize_value": 0.0,
+      "url": "https://www.freebieshark.com/2026/10/big-5-run-ready-sweepstakes-10-winners.html",
+      "deadline": "",
+      "note": "via FreebieShark — Enter for your shot at a fresh pair of New Balance FuelCell Rebel v5 Running Shoes, with 10 winners total! GOOD LUCK! 🎉💟",
+      "status": "todo"
+    },
+    {
+      "id": "fa71de51969b",
+      "title": "Red Bull “Sort the Gifts” Contest (11 Winners)",
+      "prize": "ners)",
+      "prize_value": 0.0,
+      "url": "https://www.freebieshark.com/2026/10/red-bull-sort-the-gifts-contest-11-winners.html",
+      "deadline": "",
+      "note": "via FreebieShark — Enter your best score daily for a shot at a VIP Red Bull Cliff Diving trip to St. Petersburg, Florida! GOOD LUCK! 🎉✈️ Th",
+      "status": "todo"
+    },
+    {
+      "id": "fc95ed6aa46c",
+      "title": "Java Factory “Ultimate Java Factory Setup” Sweepstakes",
+      "prize": "a full Java Factory setup worth $500! GOOD LUCK! 🎉☕ The post Java Factory “Ultim",
+      "prize_value": 500.0,
+      "url": "https://www.freebieshark.com/2026/10/java-factory-ultimate-java-factory-setup-sweepstakes.html",
+      "deadline": "",
+      "note": "via FreebieShark — One lucky coffee lover will win a full Java Factory setup worth $500! GOOD LUCK! 🎉☕ The post Java Factory “Ultimate Java",
+      "status": "todo"
+    },
+    {
+      "id": "ff6fd69b2b44",
+      "title": "Zenbivy “Accessory Bundle” Sweepstakes",
+      "prize": "ner scores a fully loaded Zenbivy sleep and pack bundle this fall. GOOD LUCK! 🎉🎒",
+      "prize_value": 0.0,
+      "url": "https://www.freebieshark.com/2026/10/zenbivy-accessory-bundle-sweepstakes.html",
+      "deadline": "",
+      "note": "via FreebieShark — One winner scores a fully loaded Zenbivy sleep and pack bundle this fall. GOOD LUCK! 🎉🎒 The post Zenbivy “Accessory Bund",
+      "status": "todo"
+    },
+    {
+      "id": "f4a2004137e2",
+      "title": "Pottery Barn Kids: FREE Halloween Craft Event (October 24)",
+      "prize": "",
+      "prize_value": 0.0,
+      "url": "https://www.freebieshark.com/2026/10/pottery-barn-kids-free-halloween-craft-event-october-24.html",
+      "deadline": "",
+      "note": "via FreebieShark — 🎃 Pottery Barn Kids stores are hosting a FREE Halloween Craft Event this Saturday, October 24 at 10am! The post Pottery",
+      "status": "todo"
+    },
+    {
+      "id": "f993fed94240",
+      "title": "Lindt LINDOR “Holiday Moments” Sweepstakes",
+      "prize": "ner will score a trip for four to the Macy’s 100th Thanksgiving Day Parade in NY",
+      "prize_value": 0.0,
+      "url": "https://www.freebieshark.com/2026/10/lindt-lindor-holiday-moments-sweepstakes.html",
+      "deadline": "",
+      "note": "via FreebieShark — One lucky winner will score a trip for four to the Macy’s 100th Thanksgiving Day Parade in NYC! GOOD LUCK! 🎉🎄 The post L",
+      "status": "todo"
+    },
+    {
+      "id": "fc683e638a87",
+      "title": "Kane’s Furniture “78th Anniversary” Sweepstakes (45 Winners)",
+      "prize": "ners)",
+      "prize_value": 10000.0,
+      "url": "https://www.freebieshark.com/2026/10/kanes-furniture-78th-anniversary-sweepstakes-45-winners.html",
+      "deadline": "",
+      "note": "via FreebieShark — A gorgeous new mattress or up to $10,000 in furniture could be yours, 45 winners will be chosen! GOOD LUCK! 🎉🛏 The post",
+      "status": "todo"
+    },
+    {
+      "id": "f70f69b4041f",
+      "title": "The Everly Brothers “Shopping Spree” Sweepstakes (3 Winners)",
+      "prize": "ners)",
+      "prize_value": 100.0,
+      "url": "https://www.freebieshark.com/2026/10/the-everly-brothers-shopping-spree-sweepstakes-3-winners.html",
+      "deadline": "",
+      "note": "via FreebieShark — Imagine winning up to $100 to spend in The Everly Brothers Official Store, enter now for your shot! GOOD LUCK! 🎉⚡ The po",
+      "status": "todo"
+    },
+    {
+      "id": "f1c3669a637d",
+      "title": "The Gist “Las Vegas Race Weekend” Sweepstakes",
+      "prize": "ner will score tickets to the Las Vegas Grand Prix plus $1,000 for travel, GOOD",
+      "prize_value": 1000.0,
+      "url": "https://www.freebieshark.com/2026/10/the-gist-las-vegas-race-weekend-sweepstakes.html",
+      "deadline": "",
+      "note": "via FreebieShark — One lucky winner will score tickets to the Las Vegas Grand Prix plus $1,000 for travel, GOOD LUCK! 🎉🏎️ The post The Gist",
+      "status": "todo"
+    },
+    {
+      "id": "f5ecf05fe98a",
+      "title": "iHeartRadio x JCPenney “Jingle Ball” Sweepstakes (27 Winners)",
+      "prize": "ners)",
+      "prize_value": 0.0,
+      "url": "https://www.freebieshark.com/2026/10/iheartradio-x-jcpenney-jingle-ball-sweepstakes-27-winners.html",
+      "deadline": "",
+      "note": "via FreebieShark — Enter daily for your shot at 27 prizes, including a VIP Jingle Ball trip to NYC! GOOD LUCK! 🎉⭐ The post iHeartRadio x JC",
+      "status": "todo"
+    },
+    {
+      "id": "ffdaf8336bd4",
+      "title": "Clorox “Catch Holiday” Instant Win Game (102 Winners)",
+      "prize": "Game (102 Winners)",
+      "prize_value": 0.0,
+      "url": "https://www.freebieshark.com/2026/10/clorox-catch-holiday-instant-win-game-102-winners.html",
+      "deadline": "",
+      "note": "via FreebieShark — A Clorox cleaning prize pack could be yours in this instant win game with 102 winners total! GOOD LUCK! 🎉✨ The post Clor",
+      "status": "todo"
+    },
+    {
+      "id": "f01c20482f57",
+      "title": "Playing For Change “Autumn” Sweepstakes (3 Winners)",
+      "prize": "ners)",
+      "prize_value": 0.0,
+      "url": "https://www.freebieshark.com/2026/10/playing-for-change-autumn-sweepstakes-3-winners.html",
+      "deadline": "",
+      "note": "via FreebieShark — Up for grabs: Playing For Change store gift cards for 3 lucky winners this fall, so enter your shot today. GOOD LUCK! 🎉🍂",
+      "status": "todo"
+    },
+    {
+      "id": "f9bc4e866bac",
+      "title": "Le Creuset x Star Trek “Star Trek Collection” Instagram Giveaway",
+      "prize": "ner scores the entire Le Creuset x Star Trek cookware collection, could it be yo",
+      "prize_value": 0.0,
+      "url": "https://www.freebieshark.com/2026/10/le-creuset-x-star-trek-star-trek-collection-instagram-giveaway.html",
+      "deadline": "",
+      "note": "via FreebieShark — One winner scores the entire Le Creuset x Star Trek cookware collection, could it be you? GOOD LUCK! 🎉🍳 The post Le Creu",
+      "status": "todo"
+    },
+    {
+      "id": "f275dd36f216",
+      "title": "P.S. Vote “Cash” Sweepstakes (10 Winners)",
+      "prize": "ners)",
+      "prize_value": 300.0,
+      "url": "https://www.freebieshark.com/2026/10/p-s-vote-cash-sweepstakes-10-winners.html",
+      "deadline": "",
+      "note": "via FreebieShark — One lucky winner will score $300 cash... actually, 10 lucky winners will each score $300 via electronic payment! GOOD LU",
       "status": "todo"
     }
   ]
