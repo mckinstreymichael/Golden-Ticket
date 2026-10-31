@@ -11427,7 +11427,7 @@
       "prize": "",
       "prize_value": 0.0,
       "url": "https://thefreebieguy.com/wendys-deals-specials",
-      "deadline": "",
+      "deadline": "2026-11-01",
       "note": "via The Freebie Guy — The latest Wendy’s deals & specials! This summer, Minions are taking over Wendy’s to celebrate the launch of the blockbu",
       "status": "todo"
     },
@@ -63679,6 +63679,436 @@
       "url": "https://www.freebieshark.com/2026/10/travel-leisure-worlds-best-awards-sweepstakes.html",
       "deadline": "",
       "note": "via FreebieShark — One lucky winner will score an 8-day Viking river cruise through Bordeaux for two, business class airfare included. GOOD",
+      "status": "todo"
+    },
+    {
+      "id": "f537b0bbeafd",
+      "title": "Free Flu Season Pouch Giveaway at Target on Oct 31",
+      "prize": "g by Target and pick up a free Flu Season pouch. Hmm, wait, that kinda makes it",
+      "prize_value": 0.0,
+      "url": "https://www.heyitsfree.net/free-flu-season-pouch",
+      "deadline": "2026-10-31",
+      "note": "via Hey It's Free — If you're out and about on Saturday, October 31, 2026 then swing by Target and pick up a free Flu Season pouch. Hmm, wai",
+      "status": "todo"
+    },
+    {
+      "id": "f066f8ac4813",
+      "title": "The North Face Vault Backpack Only $36 at Finish Line (Reg $70)",
+      "prize": "",
+      "prize_value": 75.0,
+      "url": "https://thefreebieguy.com/north-face-backpack",
+      "deadline": "",
+      "note": "via The Freebie Guy — Head over to Finish Line, where you can score this The North Face Vault Backpack for just $36 (Reg. $70)! The sale price",
+      "status": "todo"
+    },
+    {
+      "id": "f8d584fc5704",
+      "title": "Beauty Sets on Sale at QVC – ELEMIS, First Aid Beauty, Tarte & More!",
+      "prize": "",
+      "prize_value": 40.0,
+      "url": "https://thefreebieguy.com/beauty-sets-on-sale-at-qvc-elemis-first-aid-beauty-tarte-more",
+      "deadline": "",
+      "note": "via The Freebie Guy — Hurry over to QVC to shop Beauty Sets from some of your favorite brands, including ELEMIS, First Aid Beauty, Tarte and m",
+      "status": "todo"
+    },
+    {
+      "id": "f3278d041b0c",
+      "title": "Carote 5QT Enamel Cast Iron Dutch Oven Only $29.xx at Walmart (Reg. $60)",
+      "prize": "",
+      "prize_value": 60.0,
+      "url": "https://thefreebieguy.com/carote-5qt-enamel-cast-iron-dutch-oven-at-walmart",
+      "deadline": "",
+      "note": "via The Freebie Guy — Head over to Walmart to score this Carote 5QT Enamel Cast Iron Dutch Oven for just $29.99 (Reg. $60)! This is a great gi",
+      "status": "todo"
+    },
+    {
+      "id": "f21aee821150",
+      "title": "Estée Lauder Holiday Blockbuster ONLY $90 Shipped! 9 FULL-SIZE Products w/ any Estée Lauder purchase!",
+      "prize": "",
+      "prize_value": 655.0,
+      "url": "https://thefreebieguy.com/estee-lauder-holiday-blockbuster",
+      "deadline": "",
+      "note": "via The Freebie Guy — Hurry to Ulta to score this Estée Lauder Holiday Blockbuster for only $90 with ANY Estée Lauder purchase! This is an ama",
+      "status": "todo"
+    },
+    {
+      "id": "f07878d7c638",
+      "title": "NEW Grinch Mystery Squishy Bag Clips at Target–Collect them All!",
+      "prize": "",
+      "prize_value": 35.0,
+      "url": "https://thefreebieguy.com/grinch-mystery-squishy-bag-clips",
+      "deadline": "",
+      "note": "via The Freebie Guy — Head over to Target and grab these new Grinch Mystery Squishy Bag Clips for only $4.99! These mystery bags include favor",
+      "status": "todo"
+    },
+    {
+      "id": "f90b03c48d06",
+      "title": "Goldfish Flavor Blasted Xtra Cheddar Crackers (2 Pack) Only $10.xx on Amazon (Reg. $16)",
+      "prize": "",
+      "prize_value": 35.0,
+      "url": "https://thefreebieguy.com/goldfish-flavor-blasted",
+      "deadline": "",
+      "note": "via The Freebie Guy — Head to Amazon, where you can score these Goldfish Flavor Blasted Xtra Cheddar Crackers, 9 Count 0.9 Oz (2 Pack) for onl",
+      "status": "todo"
+    },
+    {
+      "id": "f7328fe6cc96",
+      "title": "Halloween Clothing Clearance at Walmart – Prices Start as Low as $3.xx!",
+      "prize": "",
+      "prize_value": 35.0,
+      "url": "https://thefreebieguy.com/walmart-halloween-clothing-clearance",
+      "deadline": "",
+      "note": "via The Freebie Guy — Hurry over to Walmart to shop their Halloween Clothing Clearance with prices starting as low as $3.xx! Right now, you ca",
+      "status": "todo"
+    },
+    {
+      "id": "f0f156d80289",
+      "title": "NEW! Gain Laundry Detergent Liquid Grinchmas Cheer Just $5.xx Each on Amazon (Reg. $10)",
+      "prize": "",
+      "prize_value": 26.0,
+      "url": "https://thefreebieguy.com/gain-grinchmas",
+      "deadline": "",
+      "note": "via The Freebie Guy — NEW! Your heart will grow three times when you use this adorable Gain Laundry Detergent Liquid Grinchmas Cheer Scent! Ev",
+      "status": "todo"
+    },
+    {
+      "id": "f521282bf2b3",
+      "title": "Sephora Savings Event Live Now | Rare Savings on Prestige Beauty!",
+      "prize": "",
+      "prize_value": 0.0,
+      "url": "https://thefreebieguy.com/sephora-savings-event",
+      "deadline": "",
+      "note": "via The Freebie Guy — Shop the Sephora Savings event! The Sephora Savings event is live now! Everyone gets to score 30% off all Sephora brande",
+      "status": "todo"
+    },
+    {
+      "id": "fd05ee83095b",
+      "title": "A Magical Owala Drop! Shop New Harry Potter Designs on Amazon",
+      "prize": "",
+      "prize_value": 35.0,
+      "url": "https://thefreebieguy.com/harry-potter-owala",
+      "deadline": "",
+      "note": "via The Freebie Guy — Head over to Amazon where you can score these Harry Potter themed FreeSip Sway Stainless Steel Water Bottles . These are",
+      "status": "todo"
+    },
+    {
+      "id": "f322911c0e52",
+      "title": "Bedsure Queen Comforter Set Only $17.xx on Amazon (Reg $45)",
+      "prize": "",
+      "prize_value": 45.0,
+      "url": "https://thefreebieguy.com/bedsure-comforter-set-amazon",
+      "deadline": "",
+      "note": "via The Freebie Guy — Run over to Amazon and grab this Bedsure Queen Comforter Set for only $17.xx when you apply the code VFXM5WI6 at checkou",
+      "status": "todo"
+    },
+    {
+      "id": "f260869bc6be",
+      "title": "New Balance 204L Women’s Sneakers Only $28.xx at Foot Locker (Reg. $120)",
+      "prize": "",
+      "prize_value": 120.0,
+      "url": "https://thefreebieguy.com/new-balance-204l-womens-sneakers",
+      "deadline": "",
+      "note": "via The Freebie Guy — Hurry over to Foot Locker to score these New Balance 204L Women’s Sneakers for just $28.99 (Reg. $120)! Refresh your sne",
+      "status": "todo"
+    },
+    {
+      "id": "f3d592c02241",
+      "title": "NEW Dearfoams Cozy Comfort Girl’s Quilted Slippers Only $2.xx at Walmart!",
+      "prize": "",
+      "prize_value": 35.0,
+      "url": "https://thefreebieguy.com/dearfoams-cozy-comfort-girls-quilted-slippers",
+      "deadline": "",
+      "note": "via The Freebie Guy — Hurry over to Walmart where you can score NEW Dearfoams Cozy Comfort Girl’s Quilted Slippers for just $2.xx! Available i",
+      "status": "todo"
+    },
+    {
+      "id": "fd3ed591d984",
+      "title": "LEVAO Wireless Push-Up Jelly Bra Only $6.xx on Amazon (Reg. $20)",
+      "prize": "",
+      "prize_value": 35.0,
+      "url": "https://thefreebieguy.com/levao-wireless-push-up-jelly-bra",
+      "deadline": "",
+      "note": "via The Freebie Guy — Hurry over to Amazon with code 1UK6WRBG to score this LEVAO Wireless Push-Up Jelly Bra for just $6.xx (Reg. $20)! These",
+      "status": "todo"
+    },
+    {
+      "id": "f2d54cfa98c9",
+      "title": "Memory Foam Women’s Slippers Just $7.xx on Amazon (Reg. $18+)",
+      "prize": "",
+      "prize_value": 18.0,
+      "url": "https://thefreebieguy.com/litfun-slippers",
+      "deadline": "",
+      "note": "via The Freebie Guy — Head on over to Amazon where you can score these Litfun Memory Foam Women’s Slippers for as low as $7.xx (Reg. $18+) whe",
+      "status": "todo"
+    },
+    {
+      "id": "f454e7543059",
+      "title": "Paris Baguette Deals: Score a Free Pastry w/ Drink Purchase on Halloween",
+      "prize": "",
+      "prize_value": 0.13,
+      "url": "https://thefreebieguy.com/paris-baguette-freebies",
+      "deadline": "",
+      "note": "via The Freebie Guy — Paris Baguette Rewards, and Latest Specials Looking for the latest Paris Baguette deals and specials? We’re sharing the",
+      "status": "todo"
+    },
+    {
+      "id": "f8087c678ad5",
+      "title": "Free Vogue Magazine Subscription",
+      "prize": "",
+      "prize_value": 10.0,
+      "url": "https://www.heyitsfree.net/free-vogue-magazine-subscription",
+      "deadline": "",
+      "note": "via Hey It's Free — I come bearing the gift of dead trees! Wait… that doesn't sound appealing. Let me try that again. Who wants some free ma",
+      "status": "todo"
+    },
+    {
+      "id": "f33161ddbc11",
+      "title": "Free Vanity Fair Magazine Subscription",
+      "prize": "",
+      "prize_value": 10.0,
+      "url": "https://www.heyitsfree.net/vanity-fair-subscription",
+      "deadline": "",
+      "note": "via Hey It's Free — Today must be our luck day because I found a fresh link where we can sign up and get a free Vanity Fair magazine subscri",
+      "status": "todo"
+    },
+    {
+      "id": "fdc0aaacf89d",
+      "title": "Rebate: Spend $175 in Groceries & Get Back $50",
+      "prize": "g states. AK, AZ, CO, CT, ... Read more Source All rights reserved, this post wa",
+      "prize_value": 175.0,
+      "url": "https://www.heyitsfree.net/heineken-rebates-offers",
+      "deadline": "",
+      "note": "via Hey It's Free — You can get $50 sent to you from Heineken if: You spend $175+ on groceries and Within that transaction you also purchase",
+      "status": "todo"
+    },
+    {
+      "id": "fb92f30c21a6",
+      "title": "Teachers can now Adopt A Cow! 🐄",
+      "prize": "",
+      "prize_value": 0.0,
+      "url": "https://www.heyitsfree.net/adopt-cow-classrooms",
+      "deadline": "",
+      "note": "via Hey It's Free — Teachers across the country can apply with Discover Dairy to adopt a cow for their classroom this year! No, the cow won'",
+      "status": "todo"
+    },
+    {
+      "id": "f8edd82da6a1",
+      "title": "Free At-Home Cholesterol Screening Kit",
+      "prize": "",
+      "prize_value": 0.0,
+      "url": "https://www.heyitsfree.net/free-cholesterol-screening-kit",
+      "deadline": "",
+      "note": "via Hey It's Free — Family Heart Foundation is offering a free at-home cholesterol screening kit. Here's how it works: Order your free scree",
+      "status": "todo"
+    },
+    {
+      "id": "fad0dc22e6f0",
+      "title": "SASE: Free Simply Southern Stickers",
+      "prize": "",
+      "prize_value": 0.0,
+      "url": "https://www.heyitsfree.net/free-simply-southern-stickers",
+      "deadline": "",
+      "note": "via Hey It's Free — Another SASE offer I stumbled upon today was this free Simply Southern stickers. It's kind of random, but I'm clearing o",
+      "status": "todo"
+    },
+    {
+      "id": "fe59f8cec3cb",
+      "title": "SASE: Free “You Are Beautiful” Stickers",
+      "prize": "",
+      "prize_value": 0.0,
+      "url": "https://www.heyitsfree.net/free-you-are-beautiful-stickers",
+      "deadline": "",
+      "note": "via Hey It's Free — If you don't mind sending a self addressed stamped envelope, then you can get some free You Are Beautiful stickers. To g",
+      "status": "todo"
+    },
+    {
+      "id": "f972f2f77878",
+      "title": "Free 2026 Radical Justice Poster",
+      "prize": "",
+      "prize_value": 0.0,
+      "url": "https://www.heyitsfree.net/free-radical-justice-poster",
+      "deadline": "",
+      "note": "via Hey It's Free — I think The Akonadi Foundation is still giving away this year's free Radical Justice poster. I'm not entirely familiar w",
+      "status": "todo"
+    },
+    {
+      "id": "f37375743ce5",
+      "title": "Free Pet Safety Window Decals",
+      "prize": "dow Decals",
+      "prize_value": 0.0,
+      "url": "https://www.heyitsfree.net/free-aspca-pet-safety-pack",
+      "deadline": "",
+      "note": "via Hey It's Free — This free ASPCA pet safety pack is not only a classic offer that's still active, but it recently got a makeover by updat",
+      "status": "todo"
+    },
+    {
+      "id": "f68c000cc8c8",
+      "title": "Greenrow “Serenbe Getaway” Sweepstakes",
+      "prize": "! GOOD LUCK! 🎉 The post Greenrow “Serenbe Getaway” Sweepstakes appeared first on",
+      "prize_value": 1000.0,
+      "url": "https://www.freebieshark.com/2026/10/greenrow-serenbe-getaway-sweepstakes.html",
+      "deadline": "",
+      "note": "via FreebieShark — Up for grabs: a 2-night lakeside retreat for 8 plus a $1,000 GreenRow gift card, enter now for your shot at winning! GOO",
+      "status": "todo"
+    },
+    {
+      "id": "fd57bfa73e50",
+      "title": "ExtraTV “Las Vegas Halloween” Sweepstakes",
+      "prize": "ner could make that a reality! GOOD LUCK! 🎉🎃 The post ExtraTV “Las Vegas Hallowe",
+      "prize_value": 0.0,
+      "url": "https://www.freebieshark.com/2026/10/extratv-las-vegas-halloween-sweepstakes.html",
+      "deadline": "",
+      "note": "via FreebieShark — Picture waking up in a jaw-dropping Halloween-themed luxury suite in Las Vegas. One lucky winner could make that a reali",
+      "status": "todo"
+    },
+    {
+      "id": "fa483ad6f015",
+      "title": "Amazon: Aquaphor Lip Repair Ointment 2-Pack – Only $4.98",
+      "prize": "",
+      "prize_value": 4.98,
+      "url": "https://www.freebieshark.com/2026/10/amazon-aquaphor-lip-repair-ointment-2-pack-only-4-98.html",
+      "deadline": "",
+      "note": "via FreebieShark — Aquaphor Lip Repair 2-Pack is down to as low as $4.45 on Amazon with Subscribe & Save, perfect stocking stuffers at that",
+      "status": "todo"
+    },
+    {
+      "id": "f864df1e5b35",
+      "title": "Penguin Random House “Shelf Life” Sweepstakes",
+      "prize": "ner will score a bundle of 4 Knopf Doubleday novels plus a mini tote bag! GOOD L",
+      "prize_value": 0.0,
+      "url": "https://www.freebieshark.com/2026/10/penguin-random-house-shelf-life-sweepstakes.html",
+      "deadline": "",
+      "note": "via FreebieShark — One lucky winner will score a bundle of 4 Knopf Doubleday novels plus a mini tote bag! GOOD LUCK! 🎉📚 The post Penguin Ra",
+      "status": "todo"
+    },
+    {
+      "id": "f32bd570fb8a",
+      "title": "Amazon: Bounty Quilted Napkins 600-Count – Only $9.40",
+      "prize": "",
+      "prize_value": 9.4,
+      "url": "https://www.freebieshark.com/2026/10/amazon-bounty-quilted-napkins-600-count-only-9-40.html",
+      "deadline": "",
+      "note": "via FreebieShark — Bounty Quilted Napkins 600-Count are just $9.40 shipped on Amazon when you Subscribe & Save! 🧻 The post Amazon: Bounty Q",
+      "status": "todo"
+    },
+    {
+      "id": "fe5b97232f61",
+      "title": "G FUEL x Capcom “Pragmata” Sweepstakes (3 Winners)",
+      "prize": "ners)",
+      "prize_value": 0.0,
+      "url": "https://www.freebieshark.com/2026/10/g-fuel-x-capcom-pragmata-sweepstakes-3-winners.html",
+      "deadline": "",
+      "note": "via FreebieShark — 3 winners will score a Pragmata game copy and a G FUEL tub, enter now! GOOD LUCK! 🎉🎮 The post G FUEL x Capcom “Pragmata”",
+      "status": "todo"
+    },
+    {
+      "id": "fb234e0c6129",
+      "title": "FREE 20oz Mountain Dew (Mobile Offer)",
+      "prize": "",
+      "prize_value": 0.0,
+      "url": "https://www.freebieshark.com/2026/10/free-20oz-mountain-dew-mobile-offer.html",
+      "deadline": "",
+      "note": "via FreebieShark — 🍋 Score a FREE 20 oz Mountain Dew with a digital coupon, available for the first 12,500 people who claim it on mobile! T",
+      "status": "todo"
+    },
+    {
+      "id": "fc5e5ec9a993",
+      "title": "Tatcha “Advent Calendar” Sweepstakes (5 Winners)",
+      "prize": "ners)",
+      "prize_value": 0.0,
+      "url": "https://www.freebieshark.com/2026/10/tatcha-advent-calendar-sweepstakes-5-winners.html",
+      "deadline": "",
+      "note": "via FreebieShark — 5 lucky winners will score a Tatcha Skincare Advent Calendar to share with a friend! GOOD LUCK! 🎉✨ The post Tatcha “Adve",
+      "status": "todo"
+    },
+    {
+      "id": "f3c1eb88c503",
+      "title": "Tourism Whistler “Go Bigger in Whistler” Sweepstakes",
+      "prize": "",
+      "prize_value": 0.0,
+      "url": "https://www.freebieshark.com/2026/10/tourism-whistler-go-bigger-in-whistler-sweepstakes.html",
+      "deadline": "",
+      "note": "via FreebieShark — Six nights in Whistler with heli-tours, ski rentals, and meals could be yours! GOOD LUCK! 🎉⛷ The post Tourism Whistler “",
+      "status": "todo"
+    },
+    {
+      "id": "f23a828fada1",
+      "title": "J.Crew Factory “Dog Tote” Instagram Giveaway (5 Winners)",
+      "prize": "ners)",
+      "prize_value": 200.0,
+      "url": "https://www.freebieshark.com/2026/10/j-crew-factory-dog-tote-instagram-giveaway-5-winners.html",
+      "deadline": "",
+      "note": "via FreebieShark — 5 winners will score a custom dog-name tote bag plus a $200 J.Crew Factory gift card. GOOD LUCK! 🎉🐾 The post J.Crew Fact",
+      "status": "todo"
+    },
+    {
+      "id": "fc8a7b102244",
+      "title": "Shopify “$1M Shop Cash Holiday” Sweepstakes (1,000 Winners)",
+      "prize": "ners)",
+      "prize_value": 1000.0,
+      "url": "https://www.freebieshark.com/2026/10/shopify-1m-shop-cash-holiday-sweepstakes-1000-winners.html",
+      "deadline": "",
+      "note": "via FreebieShark — Don't miss your chance at $1,000 in Shop Cash from Shopify this holiday season! GOOD LUCK! 🎉🛍 The post Shopify “$1M Shop",
+      "status": "todo"
+    },
+    {
+      "id": "f54f276ebc72",
+      "title": "Jägermeister “Loyalty” Sweepstakes (5 Winners)",
+      "prize": "ners)",
+      "prize_value": 0.0,
+      "url": "https://www.freebieshark.com/2026/10/jagermeister-loyalty-sweepstakes-5-winners.html",
+      "deadline": "",
+      "note": "via FreebieShark — 5 winners will score branded Jägermeister prizes including a sweet Adirondack chair! GOOD LUCK! 🎉🍻 The post Jägermeister",
+      "status": "todo"
+    },
+    {
+      "id": "f538f3ed95d0",
+      "title": "Domino’s x Minecraft Dungeons II “Win the Game” Sweepstakes (20,000 Winners)",
+      "prize": "the Game” Sweepstakes (20,000 Winners)",
+      "prize_value": 0.0,
+      "url": "https://www.freebieshark.com/2026/10/dominos-x-minecraft-dungeons-ii-win-the-game-sweepstakes-20000-winners.html",
+      "deadline": "",
+      "note": "via FreebieShark — Fall gaming season is heating up and 20,000 winners will score a copy of Minecraft Dungeons II. GOOD LUCK! 🎉🎮 The post D",
+      "status": "todo"
+    },
+    {
+      "id": "fe6379dfd4a0",
+      "title": "Oneida “Get In The Game” Sweepstakes (54 Winners)",
+      "prize": "ners)",
+      "prize_value": 0.0,
+      "url": "https://www.freebieshark.com/2026/10/oneida-get-in-the-game-sweepstakes-54-winners.html",
+      "deadline": "",
+      "note": "via FreebieShark — Calling all FreebieSharkers, your shot at a Packers hotel stay, stadium tours, and more is here across 54 winners! GOOD",
+      "status": "todo"
+    },
+    {
+      "id": "f67f16054a42",
+      "title": "Kobo “Fan Fave” Sweepstakes (20 Winners)",
+      "prize": "ners)",
+      "prize_value": 0.0,
+      "url": "https://www.freebieshark.com/2026/10/kobo-fan-fave-sweepstakes-20-winners.html",
+      "deadline": "",
+      "note": "via FreebieShark — I would love to see some FreebieSharkers win a Kobo Libra Colour bundle or a Kobo eGift Card from this one! GOOD LUCK! 🎉",
+      "status": "todo"
+    },
+    {
+      "id": "f5c00c1211cd",
+      "title": "Oroweat “Get That Bread” Sweepstakes",
+      "prize": "",
+      "prize_value": 50000.0,
+      "url": "https://www.freebieshark.com/2026/10/oroweat-get-that-bread-sweepstakes.html",
+      "deadline": "",
+      "note": "via FreebieShark — Your shot at $50,000 starts now, enter the Oroweat sweepstakes before it closes! GOOD LUCK! 🎉🍞 The post Oroweat “Get Tha",
+      "status": "todo"
+    },
+    {
+      "id": "f9bce536b931",
+      "title": "Guitar Center “Fender Pre-Black Friday” Sweepstakes",
+      "prize": "package just in time for Black Friday! GOOD LUCK! 🎉🎸 The post Guitar Center “Fen",
+      "prize_value": 10000.0,
+      "url": "https://www.freebieshark.com/2026/10/guitar-center-fender-pre-black-friday-sweepstakes.html",
+      "deadline": "",
+      "note": "via FreebieShark — I would love to see some FreebieSharkers walk away with a $10,000+ Fender guitar prize package just in time for Black Fr",
       "status": "todo"
     }
   ]
